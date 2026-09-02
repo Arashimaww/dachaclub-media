@@ -1,0 +1,7 @@
+﻿# 秘密情報。絶対にコミットしない
+credentials.json
+*.token
+.env
+*.heic
+*.HEIC
+*.png
